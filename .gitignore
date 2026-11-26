@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.db
+data/raw/*.csv
+data/rejected/
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfvars
